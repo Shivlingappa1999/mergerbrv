@@ -1,0 +1,31 @@
+[33mcommit 704d56982b691aa13578d208bcb341b7853d139e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: shivlingappa1999 <shivlingappa1999@gmail.com>
+Date:   Sat Oct 3 14:02:12 2026 +0530
+
+    tom added conversation
+
+[33mcommit 796be8325a57fe49fd2422ae876fcb35fd65eca9[m
+Author: shivlingappa1999 <shivlingappa1999@gmail.com>
+Date:   Sat Oct 3 13:52:00 2026 +0530
+
+    Revert  " never ever get change feature file1 added"
+    
+    This reverts commit d0fbe07d5e76ccfb99af15b7d91aa505b8ce99dc.
+
+[33mcommit 053b60a696a597b5b0ac2b4ed646ba3fcce44549[m
+Author: shivlingappa1999 <shivlingappa1999@gmail.com>
+Date:   Sat Oct 3 13:39:44 2026 +0530
+
+    new change on main
+
+[33mcommit d0fbe07d5e76ccfb99af15b7d91aa505b8ce99dc[m
+Author: shivlingappa1999 <shivlingappa1999@gmail.com>
+Date:   Sat Oct 3 13:16:37 2026 +0530
+
+    feature file1 added
+
+[33mcommit ad54e57da5ecf908b4d480b77dd5b7cec571e6a1[m
+Author: shivlingappa1999 <shivlingappa1999@gmail.com>
+Date:   Sat Oct 3 13:10:53 2026 +0530
+
+    first file added
